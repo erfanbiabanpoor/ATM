@@ -31,8 +31,11 @@ class account: #تعریف کلاس
     def getbalance(self): #تعریف  متد
         
         print("current inventory =",self.inventory) #دستور نمایش موجودی
+
 ps1=1234
+
 ps2=int(input("enter your password:"))
+
 if ps1==ps2:
     cash=int(input("inventory="))
     acc=account(cash)
