@@ -75,9 +75,6 @@ if ps1==ps2:
         
             print("invalid order")
 else :
+
     print("wrong password!")
-    
-    
-        
-        
-           
+ 
